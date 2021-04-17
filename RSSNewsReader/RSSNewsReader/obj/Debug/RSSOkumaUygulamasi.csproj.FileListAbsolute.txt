@@ -1,0 +1,10 @@
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\bin\Debug\RSSOkumaUygulamasi.exe.config
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\bin\Debug\RSSOkumaUygulamasi.exe
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\bin\Debug\RSSOkumaUygulamasi.pdb
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.Form1.resources
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.Properties.Resources.resources
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.exe
+C:\Users\alper\source\repos\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.pdb
